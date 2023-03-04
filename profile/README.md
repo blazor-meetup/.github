@@ -1,4 +1,8 @@
-# Blazor 밋업
+<p align="center">
+  <img src="../images/2023.jpg">
+</p>
+
+## Blazor 밋업
 > 매월 4번째 목요일에 진행하는 Blazor 밋업입니다.
 
 ## 장소
