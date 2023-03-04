@@ -6,4 +6,4 @@
 
 ## 행사 지원
 - [Infragistics](https://www.infragistics.co.kr)
-- [블루포](https://www.blueport.co.kr)
+- [블루포트](https://www.blueport.co.kr)
